@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+html {font-size: 100%;} /*16px*/
+
+body {
+  background-color: #c5a2b7;
+  color: #581038;
+  margin: 0;
+  padding: 50px;
+  line-height: 1.75;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+h1 {
+  font-size: 5em;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+h2 {
+    font-size: 2.5em;
+    font-family: 'Spectral', serif;
+}
+
+p {
+    font-size: 1.5em;
+    padding-left: 350px;
+    padding-right: 350px;
+    padding-bottom: 50px;
+    text-align: justify;
+}
